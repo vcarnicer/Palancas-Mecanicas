@@ -49,7 +49,7 @@ function Palanca(x, y, w, h, options) {
     
     //Color
     this.r = random(5, 90);
-    this.g = random(0, 50);
+    this.g = random(0, 200);
     this.b = random(0, 50);
     this.a = 255;
 
