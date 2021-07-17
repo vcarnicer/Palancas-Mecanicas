@@ -64,7 +64,7 @@ function draw() {
 
     //Muestra FPS
     fps = frameRate();
-    fill(255);
+    fill(135, 14, 89);
     stroke(0);
     fpsP.html("FPS: " + fps.toFixed(2));
 
